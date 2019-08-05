@@ -1,0 +1,14 @@
+HOLGAN SYSTEM:
+
+EMPRESAS:
+- toda empresa tem, no minimo, uma categoria
+- toda empresa tem, no minimo, um usuario
+
+CATEGORIAS:
+- toda categoria tem, no minimo, um modelo de maquina
+
+USUARIOS:
+
+MAQUINA:
+- toda maquina tem seu trecho codigo (texto, foto)
+
